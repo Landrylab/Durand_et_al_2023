@@ -67,5 +67,7 @@ pyphe-quantify batch --grid auto_384 --pattern "*.JPG" --s 0.1
 
 ## Analyses of WGS data
 - [Snakemake pipeline to analyze demultiplexed fastq files](Snakefile)
+- [SNP calling and filtering with 'samtools'](README_bcftools.ipynb)
+- [SNP calling and filtering with 'gatk'](README_gatk.ipynb)
 - [Mutations detected by samtools/gatk/Sanger](FUR1_variants_v2.ipynb)
 - [Coverage](coverage.ipynb)
